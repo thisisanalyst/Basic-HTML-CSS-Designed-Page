@@ -60,6 +60,6 @@ html,body{
 #content button:hover{
     cursor: pointer;
     background-color: transparent;
-    color: #fff;
-    border-color: black;
+    color: rgb(241, 210, 28);
+    border-color: rgb(241, 210, 28);
 }
